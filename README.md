@@ -23,9 +23,11 @@ This project analyzes the economic impact of smoking across U.S. states by compa
 - Automated reporting tool
 
 # Key Insights
-- Smoking-related healthcare costs increased from 2005–2009
-- Strong positive correlation between cost and revenue (r > 0.85)
-- Hospital costs contribute the largest share
+- Smoking-related healthcare costs increased significantly from 2005 to 2009  
+- Hospital expenses contributed the largest share of total costs  
+- Cigarette tax revenue also increased but remained much lower than costs  
+- Strong positive correlation between cost and revenue (r ≈ 0.85–0.97)  
+- Indicates a tradeoff between economic revenue and public health burden
   
 # Project Structure
 - Notebook file (.ipynb)
