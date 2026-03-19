@@ -1,4 +1,4 @@
-# smoking-cost-revenue-report
+# Smoking-Cost-Revenue-Report
 Smoking Cost &amp; Revenue Report Generator for U.S. States using Python
 
 # Overview
